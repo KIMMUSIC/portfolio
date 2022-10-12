@@ -8,13 +8,13 @@ function App() {
   return (
     <Router>
       <Switch>
-       <Route exact path="/">
+       <Route exact path="/portfolio">
         <HomePage Name="HOME" />
         </Route>
-        <Route exact path="/profile">
+        <Route exact path="/portfolio/profile">
         <HomePage Name="profile" />
         </Route>
-        <Route exact path="/projects">
+        <Route exact path="/portfolio/projects">
         <Project Name="projects" />
         </Route>
       </Switch>
