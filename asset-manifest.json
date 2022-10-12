@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/KIMMUSIC/portfolio/static/css/main.981584e6.css",
-    "main.js": "/KIMMUSIC/portfolio/static/js/main.d6efce95.js",
-    "static/js/787.28cb0dcd.chunk.js": "/KIMMUSIC/portfolio/static/js/787.28cb0dcd.chunk.js",
-    "static/media/joker1.jpg": "/KIMMUSIC/portfolio/static/media/joker1.b00a45182a25da7d5b39.jpg",
-    "static/media/NeoDunggeunmoPro-Regular.woff": "/KIMMUSIC/portfolio/static/media/NeoDunggeunmoPro-Regular.0818c487bcc1cc8938b1.woff",
-    "index.html": "/KIMMUSIC/portfolio/index.html",
-    "main.981584e6.css.map": "/KIMMUSIC/portfolio/static/css/main.981584e6.css.map",
-    "main.d6efce95.js.map": "/KIMMUSIC/portfolio/static/js/main.d6efce95.js.map",
-    "787.28cb0dcd.chunk.js.map": "/KIMMUSIC/portfolio/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.109fe109.css",
+    "main.js": "/portfolio/static/js/main.42ae7f46.js",
+    "static/js/787.28cb0dcd.chunk.js": "/portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/joker1.jpg": "/portfolio/static/media/joker1.b00a45182a25da7d5b39.jpg",
+    "static/media/NeoDunggeunmoPro-Regular.woff": "/portfolio/static/media/NeoDunggeunmoPro-Regular.0818c487bcc1cc8938b1.woff",
+    "index.html": "/portfolio/index.html",
+    "main.109fe109.css.map": "/portfolio/static/css/main.109fe109.css.map",
+    "main.42ae7f46.js.map": "/portfolio/static/js/main.42ae7f46.js.map",
+    "787.28cb0dcd.chunk.js.map": "/portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.981584e6.css",
-    "static/js/main.d6efce95.js"
+    "static/css/main.109fe109.css",
+    "static/js/main.42ae7f46.js"
   ]
 }
