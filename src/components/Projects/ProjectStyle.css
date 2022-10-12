@@ -1,0 +1,14 @@
+.title{
+    font-size : 1.8rem;
+    font-weight: 400;
+    text-align: center;
+    font-family: Black Han Sans, sans-serif;
+    padding-bottom: 0.5rem;
+}
+
+
+.clothes{
+    width : 400px;
+    height: 450px;
+    object-fit: contain;
+}

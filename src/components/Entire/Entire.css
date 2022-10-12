@@ -1,0 +1,12 @@
+.entire{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+  }
+
+  .project{
+    background-color: black;
+    width : 100%;
+    overflow-y: scroll;
+    min-height: 100vh;
+  }
