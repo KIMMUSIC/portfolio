@@ -4,13 +4,13 @@ import "./HeaderStyle.css";
 function NavList({ children, ...restProps }) {
   return (
     <div {...restProps}>
-      <a href="/">
+      <a href="/portfolio/">
         Home
       </a>
-      <a href="/Archiving">
+      <a href="/portfolio/Archiving">
         Archiving
       </a>
-      <a href="/projects">
+      <a href="/portfolio/projects">
         Projects
       </a>
     </div>

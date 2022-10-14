@@ -1,0 +1,29 @@
+.Artitle{
+    font-size : 1.8rem;
+    font-weight: 400;
+    text-align: center;
+    font-family: Black Han Sans, sans-serif;
+    padding-bottom: 0.5rem;
+}
+
+.Arsub{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#logo{
+    width : 150px;
+    height : 150px;
+    border-radius: 70%;
+    margin-top: 40px;
+    margin-left:120px;
+}
+
+.Arurl{
+
+}
+
+.Arcontents{
+    margin-top: 30px;
+    line-height: 50px;
+}

@@ -33,4 +33,20 @@ h1, h3 {
     width: 1000px;
     border-radius: 1rem;
     background-color: white;
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+
+.Archiving{
+    
+    margin-right: 100px;
+    margin-left: 300px;
+    width: 400px;
+    height: 600px;
+    border-radius: 1rem;
+    background-color: white;
+    margin-bottom: 50px;
+    float: left;
+    overflow: hidden;
+    
 }
