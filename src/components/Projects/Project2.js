@@ -12,7 +12,7 @@ function Project2({ children, ...restProps }) {
       <div class="subtitle">학교 팀 프로젝트 2021.09 ~ 2021.12</div>
 
       <div class="container">
-      <div><img class="clothes"  src="./images/misc/ownbook4.PNG" alt="HOMEPAGE" /></div>
+      <div><img class="clothes"  src="https://github.com/KIMMUSIC/portfolio/blob/gh-pages/images/misc/ownbook4.png?raw=true" alt="HOMEPAGE" /></div>
 
       <div class="contents">
       <div>
