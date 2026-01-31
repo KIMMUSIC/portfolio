@@ -1,0 +1,62 @@
+h1, h3 {
+    color:aliceblue;
+}
+
+.mainwrapper{
+    padding : 30px 50px;
+    display:inline-block;
+    width:100%;
+}
+
+.mainLeft{
+    display:bolck;
+    width: 50%;
+    float:left;
+}
+
+.mainRight{
+    display:block;
+    width:50%;
+    float:right;
+}
+
+.skill{
+    margin-right: 10px;
+}
+
+.skillwrapper{
+    width:300px;
+}
+
+.projects{
+    margin: auto;
+    width: 1000px;
+    border-radius: 1rem;
+    background-color: white;
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+
+.Archiving{
+    
+    margin-right: 100px;
+    margin-left: 300px;
+    width: 400px;
+    height: 600px;
+    border-radius: 1rem;
+    background-color: white;
+    margin-bottom: 50px;
+    float: left;
+    overflow: hidden;
+    
+}
+
+.Archiving:hover{
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.info a {
+    text-decoration: none;
+    color : white;
+}

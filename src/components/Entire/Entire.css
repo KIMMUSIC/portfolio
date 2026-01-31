@@ -1,0 +1,13 @@
+.entire{
+    background-color: #222;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  .project{
+    background-color: #222;
+    width : 100%;
+    min-height: 220vh;
+
+  }
