@@ -1,0 +1,109 @@
+/* ############### Header Section ############### */
+
+.header-wrapper-home {
+  background-position: top left;
+  background-repeat: no-repeat;
+  height:100px;
+  padding: 30px 50px;
+}
+
+
+
+.header-wrapper-browse {
+  background: url("../../images/misc/joker1.jpg");
+  background-position: center top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 30px 50px;
+}
+
+@media (max-width: 550px) {
+  .header-wrapper-home,
+  .header-wrapper-browse {
+    padding: 15px 20px;
+  }
+}
+
+.navbar-home,
+.navbar-signin {
+  max-width: 1850px;
+  width: 100%;
+  display: flex;
+  margin-bottom: 175px;
+  margin-right: auto;
+  margin-left: auto;
+  align-items: baseline;
+}
+
+.navbar-signin {
+  margin-bottom: 75px;
+}
+
+@media (max-width: 550px) {
+  .navbar-home,
+  .navbar-signin {
+    margin-bottom: 100px;
+  }
+}
+
+.navbar-browse {
+  max-width: 1850px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 175px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.logo {
+  color: #fff;
+  text-decoration: none;
+  font-size:50px;
+  font-weight: bold;
+  font-family: 'Neo';
+  margin-right: 30px;
+}
+
+.signin-button {
+  display: block;
+  background-color: #e50914;
+  width: 84px;
+  height: fit-content;
+  color: #fff;
+  border: 0;
+  font-size: 15px;
+  border-radius: 3px;
+  padding: 8px 17px;
+  cursor: pointer;
+}
+
+.header-link,
+.header-link-bold {
+  padding: 5px;
+}
+
+.header-link a {
+  color: #fff;
+  margin-left: 25px;
+  cursor: pointer;
+}
+
+.header-link-bold {
+  font-weight: bolder;
+}
+
+@font-face{
+  font-family: 'Neo';
+  src:url('../../../public/fonts/NeoDunggeunmoPro-Regular.woff');
+}
+
+
+.list > a{
+  color:#fff;
+  margin-left:15px;
+  text-decoration: none;
+  font-family:'Neo';
+  align-items :flex-end;
+  font-size:30px;
+}
