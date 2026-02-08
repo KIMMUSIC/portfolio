@@ -159,6 +159,23 @@ const skillCategories = [
 
 const projectsData = [
   {
+    title: 'CtyTerm',
+    period: '2026.02',
+    type: 'Personal',
+    description:
+      'Windows 전용 Rust/egui/wgpu 기반 커스텀 터미널입니다. 블록 기반 출력, 탭/Pane 레이아웃, AI 패널, 애니메이션 마스코트 등 현대적인 터미널 UX를 제공합니다.',
+    features: [
+      '블록 기반 커맨드 워크플로우 (명령/출력 누적 타임라인)',
+      'AI 패널 통합 (Codex CLI / Claude Code)',
+      '탭/Pane 레이아웃 및 세션 저장/복원',
+      '애니메이션 마스코트 및 커스텀 상단바',
+    ],
+    tech: ['Rust', 'egui', 'wgpu', 'Windows API'],
+    links: {
+      github: 'https://github.com/KIMMUSIC/CtyTerm',
+    },
+  },
+  {
     title: 'Claude Code KakaoTalk Bridge',
     period: '2026.01',
     type: 'Personal',
