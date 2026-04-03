@@ -159,6 +159,24 @@ const skillCategories = [
 
 const projectsData = [
   {
+    title: 'Kappa',
+    period: '2026.04',
+    type: 'Personal',
+    description:
+      'LLM의 확률적 출력을 결정론적으로 통제하는 자율 수행 에이전트 하네스입니다. 5계층 검증 파이프라인, Orchestrator Super-Graph, Quality Gate 등을 통해 LLM 기반 에이전트가 안전하고 신뢰할 수 있게 작동하도록 합니다.',
+    features: [
+      '5계층 검증 파이프라인 (XML → AST 린트 → 의미론적 방어 → 자가 치유 → 샌드박스)',
+      'Orchestrator Super-Graph로 거대 목표를 DAG로 분해하여 병렬 처리',
+      'Quality Gate: Reviewer LLM이 산출물 검수 및 거부 시 재순환',
+      'VFS Memory 기반 격리 파일 시스템 및 SessionLane 자원 충돌 방지',
+    ],
+    tech: ['Python', 'LangGraph', 'Docker', 'Anthropic Claude API', 'asyncio'],
+    links: {
+      github: 'https://github.com/KIMMUSIC/kappa',
+      demo: 'https://kimmusic.github.io/kappa/',
+    },
+  },
+  {
     title: 'CtyTerm',
     period: '2026.02',
     type: 'Personal',
